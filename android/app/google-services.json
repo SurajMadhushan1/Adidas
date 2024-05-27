@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "382282457574",
+    "project_id": "adidas-e-commerce",
+    "storage_bucket": "adidas-e-commerce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382282457574:android:f4f5470534c8c86687b627",
+        "android_client_info": {
+          "package_name": "com.example.adidas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "382282457574-0d9bieaukko6jolok4kns53tmd8nol20.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo7YTEHdsEjihzmwTEe2RZwmIswNT2tcQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "382282457574-0d9bieaukko6jolok4kns53tmd8nol20.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "382282457574-c7ib00h0v554tjrnja35vrbrog48f97b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.adidas"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382282457574:android:e04a4b0c79f5238787b627",
+        "android_client_info": {
+          "package_name": "lk.ce.adidas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "382282457574-0d9bieaukko6jolok4kns53tmd8nol20.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo7YTEHdsEjihzmwTEe2RZwmIswNT2tcQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "382282457574-0d9bieaukko6jolok4kns53tmd8nol20.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "382282457574-c7ib00h0v554tjrnja35vrbrog48f97b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.adidas"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
